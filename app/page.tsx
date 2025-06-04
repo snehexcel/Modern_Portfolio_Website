@@ -57,7 +57,7 @@ export default function HomePage() {
                   of Web
                 </h1>
                 <p className="text-xl text-slate-600 dark:text-slate-300 leading-relaxed">
-                  I'm a passionate software developer and innovative problem solver, currently in my pre-final year at
+                  I'm a passionate software developer and innovative problem solver, currently in my final year at
                   Sharda University. I specialize in full-stack development with React.js, Next.js, and modern
                   technologies. I'm deeply interested in AI/ML, LLMs, and RAG systems, always eager to learn and create
                   impactful solutions.
@@ -89,7 +89,7 @@ export default function HomePage() {
                 </div>
                 <div className="flex items-center space-x-2">
                   <GraduationCap className="w-5 h-5 text-blue-500" />
-                  <span className="text-slate-600 dark:text-slate-300">8.2 CGPA</span>
+                  <span className="text-slate-600 dark:text-slate-300">8.5 CGPA</span>
                 </div>
               </div>
             </div>
